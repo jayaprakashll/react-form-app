@@ -1,0 +1,21 @@
+{
+  "homepage": "https://github.com/jayaprakashll/react-form-app.git",
+  "name": "fstask",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
+}
